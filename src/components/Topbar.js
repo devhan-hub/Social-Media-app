@@ -4,7 +4,7 @@ export default function Topbar() {
   return (
     <div className='topbarContainer h-[50px] w-full bg-[#1877f2] flex items-center sticky top-0 '>
       <div className="topbarLeft flex-[3]">
-        <span className="logo text-[24px] ml-[20px] text-white cursor-pointer ">LamaSocial</span>
+        <span className="logo text-[24px] ml-[20px] text-white cursor-pointer ">RukSocial</span>
       </div>
       <div className="topbarCenter flex-[5]">
         <div className="searchbar w-full h-[30px] bg-white rounded-[30px] flex items-center">
